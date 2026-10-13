@@ -1,0 +1,2 @@
+Python syntax validation passed for app.py.
+The Ollama integration was checked statically; it was not live-tested against an installed Ollama service in this environment.

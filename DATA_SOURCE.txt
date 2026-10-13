@@ -1,0 +1,7 @@
+Dataset: UCI Machine Learning Repository — Default of Credit Card Clients (Taiwan)
+"
+"Used as a public methodological proxy, not Indian retail-bank data.
+"
+"Expected columns include LIMIT_BAL, demographic/repayment/bill/payment fields, and target default payment next month.
+"
+"On first app launch the app attempts to download the source. If network access is blocked, use the sidebar uploader.
